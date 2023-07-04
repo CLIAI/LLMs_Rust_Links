@@ -8,3 +8,5 @@ What about e.g. per each one file describing it and then script that would gener
 So let's start making pull requests and adding, one markdown per resource in llms/rust directory,
 and later I will extract with some gpt3 script into RDF or CSV and then make comparison table.
 How do you like this plan?
+
+Thread: https://community.openai.com/t/connect-with-other-rustceans/287051
